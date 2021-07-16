@@ -1,2 +1,2 @@
-# https:mspivak98.github.io
+# http://mspivak98.github.io
 Assignment 2
