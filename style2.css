@@ -1,0 +1,46 @@
+.p2 {
+    color:orange;
+}
+.p3 {
+    color:orange;
+    font-style: oblique;
+}
+.p4 {
+    color:orange;
+    font-style: oblique;
+    border: 8px solid green;
+}
+.p5 {
+    color:orange;
+    font-style: oblique;
+    border: 8px solid green;
+    text-shadow: 2px 30px 10px greenyellow;
+}
+.p6 {
+    color:orange;
+    font-style: oblique;
+    border: 8px solid green;
+    text-shadow: 2px 30px 10px greenyellow;
+    box-shadow: 2px 30px 10px red;
+}
+.p7 {
+    color:orange;
+    font-style: oblique;
+    border: 8px solid green;
+    text-shadow: 2px 30px 10px greenyellow;
+    box-shadow: 2px 30px 10px red;
+    filter:invert(50%);
+}
+.p8 {
+    color:orange;
+    font-style: oblique;
+    border: 8px solid green;
+    text-shadow: 2px 30px 10px greenyellow;
+    box-shadow: 2px 30px 10px red;
+    filter:invert(50%);
+    font-family: fantasy;
+}
+img {
+    filter:saturate(100%);
+    margin-left: 40%;
+}
